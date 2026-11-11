@@ -1,5 +1,4 @@
-[![Xoro's GitHub](https://github-readme-stats.vercel.app/api?username=Xoro-1337&count_private=true&hide=issues&show_icons=true)](https://github.com/Xoro-1337/)
-
+[![Xoro's GitHub](https://github-stats-extended.vercel.app/api/top-langs?username=Xoro-1337&layout=compact&langs_count=3&theme=dark_github)](https://github.com/Xoro-1337)
 
 Languages you'll see here:
 
